@@ -1,0 +1,15 @@
+
+
+.list__title {
+font-size: 1.75rem;
+margin:  2.5rem;
+color: white;
+font-weight: 600;
+}
+
+.list__cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+    margin: auto;
+}
